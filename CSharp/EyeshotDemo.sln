@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomControls.Win", "..\..\..\dataset\CustomControls\CustomControls.Win.csproj", "{F5F681FD-8301-4176-8C65-DE181FBE0970}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "myProject", "WindowsFormsApp1\myProject.csproj", "{58B39559-602F-424D-ACC7-12652CC21A7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5F681FD-8301-4176-8C65-DE181FBE0970}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5F681FD-8301-4176-8C65-DE181FBE0970}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5F681FD-8301-4176-8C65-DE181FBE0970}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5F681FD-8301-4176-8C65-DE181FBE0970}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58B39559-602F-424D-ACC7-12652CC21A7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58B39559-602F-424D-ACC7-12652CC21A7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58B39559-602F-424D-ACC7-12652CC21A7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58B39559-602F-424D-ACC7-12652CC21A7A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DDDA9899-44C4-45E4-A317-D5CB89304F8C}
+	EndGlobalSection
+EndGlobal
